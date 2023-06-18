@@ -43,15 +43,39 @@
         "kode" : "C-014",
         "Image" : "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dwd4c4643f/images/a_107/372836C_A_107X1.jpg?sw=964",
         "harga" : 260000,
-        "detail" : "" 
+        "detail" : "The Chuck Taylor All Star Ultra is a lightweight style inspired by the original All Star‚ now sized down for kids. Chuck Taylor classics like the star ankle patch and woven tongue label pay homage to the original, and exagerrated midsole design adds newness." 
     },
      {
-        "nama" : "Chuck Taylor All Star Ultra Easy-On, Kids - Strom Wind",
-        "color" : "Strom Wind",
-        "kode" : "C-014",
-        "Image" : "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dwd4c4643f/images/a_107/372836C_A_107X1.jpg?sw=964",
-        "harga" : 260000,
-        "detail" : "" 
+        "nama" : "Chuck Taylor All Star Ultra Easy-On, Kids - White / Black / University Red",
+        "color" : "White / Black / University Red",
+        "kode" : "C-015",
+        "Image" : "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dwbac478e8/images/a_107/372837C_A_107X1.jpg?sw=964",
+        "harga" : 450000,
+        "detail" : "The Chuck Taylor All Star Ultra is a lightweight style inspired by the original All Star‚ now sized down for kids. Chuck Taylor classics like the star ankle patch and woven tongue label pay homage to the original, and exagerrated midsole design adds newness." 
+    },
+    {
+        "nama" : "Chuck Taylor All Star Ultra Easy-On, Kids - Strom Pink",
+        "color" : "Strom Pink",
+        "kode" : "C-016",
+        "Image" : "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dwb8359c8d/images/a_107/372835C_A_107X1.jpg?sw=964",
+        "harga" : 450000,
+        "detail" : "The Chuck Taylor All Star Ultra is a lightweight style inspired by the original All Star‚ now sized down for kids. Chuck Taylor classics like the star ankle patch and woven tongue label pay homage to the original, and exagerrated midsole design adds newness." 
+    },
+    {
+        "nama" : "Chuck Taylor All Star Ultra Easy-On, Toddler - Black",
+        "color" : "Black",
+        "kode" : "C-017",
+        "Image" : "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dw64d5f523/images/a_107/7V603_A_107X1.jpg?sw=964",
+        "harga" : 350000,
+        "detail" : "The Chuck Taylor All Star Ultra is a lightweight style inspired by the original All Star‚ now sized down for kids. Chuck Taylor classics like the star ankle patch and woven tongue label pay homage to the original, and exagerrated midsole design adds newness." 
+    },
+    {
+        "nama" : "Chuck Taylor All Star Ultra Easy-On, Toddler - Atlhetic Navy White",
+        "color" : "Atlhetic Navy White",
+        "kode" : "C-018",
+        "Image" : "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dw6d2366b5/images/a_107/711357F_A_107X1.jpg?sw=964",
+        "harga" : 350000,
+        "detail" : "The Chuck Taylor All Star Ultra is a lightweight style inspired by the original All Star‚ now sized down for kids. Chuck Taylor classics like the star ankle patch and woven tongue label pay homage to the original, and exagerrated midsole design adds newness." 
     }
   ]
 }
