@@ -35,5 +35,25 @@
             "harga" : 699999,
             "detail" : "We could tell you that it’s the OG basketball shoe, created over 100 years ago. Or that the design has largely stayed the same, because why mess with a good thing. Or how it became the unofficial sneaker of all your favorite artists and musicians, who each made it their own. Yeah, we could share a lot of stories, but the one that matters most isnt ours—its yours" 
         }
-    ]
+    ],
+  "Kids" : [
+    {
+        "nama" : "Chuck Taylor All Star Ultra Easy-On, Kids - Strom Wind",
+        "color" : "Strom Wind",
+        "kode" : "C-014",
+        "Image" : "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dwd4c4643f/images/a_107/372836C_A_107X1.jpg?sw=964",
+        "harga" : 260000,
+        "detail" : "" 
+    },
+     {
+        "nama" : "Chuck Taylor All Star Ultra Easy-On, Kids - Strom Wind",
+        "color" : "Strom Wind",
+        "kode" : "C-014",
+        "Image" : "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dwd4c4643f/images/a_107/372836C_A_107X1.jpg?sw=964",
+        "harga" : 260000,
+        "detail" : "" 
+    },
+    
+    }
+  ]
 }
